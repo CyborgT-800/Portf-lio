@@ -1,11 +1,27 @@
-# Meu Portfólio de Programação
+# Projeto Conta Bancária
 
-Bem-vindo ao meu portfólio! Aqui está meu primeiro programa que que desenvolvi.
+Este é um projeto simples de uma conta bancária em Java, criado com o objetivo de praticar os conceitos de Programação Orientada a Objetos.
 
-## Projeto
+## Funcionalidades
+- Consultar saldo
+- Realizar depósito
+- Realizar saque
+- Interação via terminal (console) com o usuário
 
-- [Projeto - Conta Bancária](https://github.com/seu-usuario/ContaBancaria)
-  - Descrição: Um simples programa de conta bancária feito em Java, onde o usuário pode realizar depósitos, saques e consultar saldo.
+## Tecnologias usadas
+- Java
+- NetBeans IDE
+- Maven
+- Git e GitHub
+
+## Como executar
+1. Clone este repositório.
+2. Abra o projeto no NetBeans.
+3. Execute a classe `ContaBancariaConsole.java`.
+
+## Autor
+Roberto Gimenes ✨  
+[LinkedIn](https://www.linkedin.com/in/roberto-gimenes-921174b1/)
 
 
 Você pode ver todos os meus projetos no meu [GitHub](https://github.com/CyborgT-800).
